@@ -65,5 +65,8 @@
 <br>
 <br>
 
-<h2></h2> 💻 Featured YouTube Videos </h2>
+<h2> 💻 Featured YouTube Videos </h2>
 
+[![Chatbot con OpenAI: Capaz de Leer Archivos PDF - OpenAI Chatbot: Capable of Reading PDF Files](https://ytcards.demolab.com/?id=zAMqvSqkX6o&title=Chatbot%20con%20OpenAI%3A%20Capaz%20de%20Leer%20Archivos%20PDF%20-%20OpenAI%20Chatbot%3A%20Capable%20of%20Reading%20PDF%20Files&lang=en&timestamp=1732405680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=204.6)](https://youtu.be/zAMqvSqkX6o?si=pLUIea6kG_yY6dYe)
+[![Proyecto Final Programación Avanzada - Final Project Advanced ...](https://ytcards.demolab.com/?id=RkMIHNSzIO8&title=Proyecto%20Final%20Programaci%C3%B3n%20Avanzada%20-%20Final%20Project%20Advanced%20...&lang=es&timestamp=1730841600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=155)](https://youtu.be/RkMIHNSzIO8)
+[![Nasa Space Apps Challenge](https://ytcards.demolab.com/?id=7bwxqmu7UCM&title=Nasa%20Space%20Apps%20Challenge&lang=es&timestamp=1728172800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46)](https://youtu.be/7bwxqmu7UCM)
