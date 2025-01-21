@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on different projects
   
 - ⚡ UruBots member 🤖🇺🇾🧉
-</div>
 
 <br>
 <br>
