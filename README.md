@@ -6,7 +6,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://i.gifer.com/En1y.gif"/>
 
 - 🔭 I’m currently working on NASA 2025 Challenge
   
