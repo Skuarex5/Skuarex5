@@ -59,8 +59,7 @@
 
 <a href="https://www.youtube.com/@TheSkuarex"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/santi_20f"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/santiago-fernández-893226310)
-&nbsp;
+<a href="https://www.linkedin.com/in/santiago-fernández-893226310/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <br>
 <br>
