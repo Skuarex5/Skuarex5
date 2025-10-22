@@ -8,7 +8,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://i.gifer.com/En1y.gif"/>
 
-- 🔭 I’m currently working on NASA 2025 Challenge
+- 🔭 I’m currently working on a Controller for an RC Car
   
 - 🌱 I’m currently learning Python, #C and ROS
   
