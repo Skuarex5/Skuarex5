@@ -12,12 +12,19 @@
   <a href="https://github.com/Skuarex5?tab=followers">
     <img src="https://img.shields.io/github/followers/Skuarex5?style=flat-square&color=6366F1&labelColor=0D1117&label=Followers" />
   </a>
+
   <a href="https://www.youtube.com/@TheSkuarex">
     <img src="https://img.shields.io/badge/YouTube-TheSkuarex-FF0033?style=flat-square&logo=youtube&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/santiago-fern%C3%A1ndez-893226310/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://scholar.google.com/citations?user=M5DvpegAAAAJ&amp;hl=es">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
+
   <img src="https://img.shields.io/badge/Based%20in-Uruguay-6366F1?style=flat-square&labelColor=0D1117" />
 </p>
 
@@ -181,6 +188,10 @@ Language statistics reflect public repository code, not necessarily overall prof
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://scholar.google.com/citations?user=M5DvpegAAAAJ&hl=es">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+
 <a href="https://www.youtube.com/@TheSkuarex">
   <img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -192,11 +203,5 @@ Language statistics reflect public repository code, not necessarily overall prof
 <a href="https://github.com/Skuarex5">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<em>Thanks for visiting. Feel free to explore my repositories and get in touch.</em>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:4F46E5&height=90&section=footer" alt="Footer" />
 
 </div>
