@@ -103,6 +103,7 @@ As a member of **UruBots 🇺🇾**, I'm especially interested in how software a
     </td>
   </tr>
 </table>
+
 ---
 
 ## Featured Project
