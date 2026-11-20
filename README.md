@@ -111,20 +111,35 @@ Language statistics reflect public repository code, not necessarily overall prof
 
 <div align="center">
 
-<a href="https://youtu.be/zAMqvSqkX6o">
+<a href="https://www.youtube.com/watch?v=zAMqvSqkX6o">
   <img src="https://i.ytimg.com/vi/zAMqvSqkX6o/mqdefault.jpg" width="180" alt="OpenAI PDF Chatbot" />
 </a>
-<a href="https://youtu.be/RkMIHNSzIO8">
+<a href="https://www.youtube.com/watch?v=RkMIHNSzIO8">
   <img src="https://i.ytimg.com/vi/RkMIHNSzIO8/mqdefault.jpg" width="180" alt="Advanced Programming Project" />
 </a>
-<a href="https://youtu.be/7bwxqmu7UCM">
+<a href="https://www.youtube.com/watch?v=7bwxqmu7UCM">
   <img src="https://i.ytimg.com/vi/7bwxqmu7UCM/mqdefault.jpg" width="180" alt="NASA Space Apps Challenge" />
+</a>
+<a href="https://www.youtube.com/watch?v=Zahktwnvmyg">
+  <img src="https://i.ytimg.com/vi/Zahktwnvmyg/mqdefault.jpg" width="180" alt="YouTube Project Video" />
+</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=ekdCPP0LsDM">
+  <img src="https://i.ytimg.com/vi/ekdCPP0LsDM/mqdefault.jpg" width="180" alt="YouTube Project Video" />
+</a>
+<a href="https://www.youtube.com/watch?v=pirCMketydU">
+  <img src="https://i.ytimg.com/vi/pirCMketydU/mqdefault.jpg" width="180" alt="YouTube Project Video" />
+</a>
+<a href="https://www.youtube.com/watch?v=f7xAwTxisKk">
+  <img src="https://i.ytimg.com/vi/f7xAwTxisKk/mqdefault.jpg" width="180" alt="YouTube Project Video" />
 </a>
 
 <br><br>
 
 <a href="https://www.youtube.com/@TheSkuarex/videos">
-  <img src="https://img.shields.io/badge/Watch%20all%20videos-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch all videos" />
+  <img src="https://img.shields.io/badge/Explore%20More%20Videos-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch more videos" />
 </a>
 
 </div>
