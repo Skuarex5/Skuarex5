@@ -44,39 +44,65 @@ As a member of **UruBots 🇺🇾**, I'm especially interested in how software a
 
 <table>
   <tr>
-    <td width="190">
-      <strong>Programming</strong>
-    </td>
+    <td width="220"><strong>Programming Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css&theme=dark&perline=6" height="42" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,html,css,bash&theme=dark" height="40" />
     </td>
   </tr>
+
   <tr>
+    <td><strong>Robotics & Automation</strong></td>
     <td>
-      <strong>Robotics & Systems</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu&theme=dark&perline=3" height="42" />
+      <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi&theme=dark" height="40" />
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="40" />
     </td>
   </tr>
+
   <tr>
+    <td><strong>AI & Computer Vision</strong></td>
     <td>
-      <strong>Development Tools</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" height="42" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="40" />
     </td>
   </tr>
+
   <tr>
+    <td><strong>Development & DevOps</strong></td>
     <td>
-      <strong>3D & Game Development</strong>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,cmake&theme=dark" height="40" />
     </td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating Systems</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=godot,unity,blender&theme=dark&perline=3" height="42" />
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Game Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=godot,unity,unreal&theme=dark" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>3D Design & CAD</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=blender,autocad&theme=dark" height="40" />
+      <img src="https://img.shields.io/badge/Autodesk_Inventor-FF9A00?style=for-the-badge&logo=autodesk&logoColor=white" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Engineering & Simulation</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white" height="40" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## Featured Project
